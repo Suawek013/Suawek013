@@ -1,7 +1,11 @@
-### Hi there 👋
+### Welcome to my profile 👋
+
+> [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suawek013&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suawek013&layout=compact)](https://github.com/Suawek013/github-readme-stats)
 
 <!--
 **Suawek013/Suawek013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
